@@ -367,6 +367,7 @@ public class AutowiredAnnotationBeanPostProcessor implements SmartInstantiationA
 						}
 						else if (candidate.getParameterCount() == 0) {
 							defaultConstructor = candidate;
+							defaultConstructor = candidate;
 						}
 					}
 					if (!candidates.isEmpty()) {

@@ -1,4 +1,4 @@
-package com.spring.jul;
+package com.spring.test.jul;
 
 import java.util.logging.Logger;
 

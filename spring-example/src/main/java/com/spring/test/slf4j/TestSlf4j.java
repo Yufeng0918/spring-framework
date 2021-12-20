@@ -1,4 +1,4 @@
-package com.spring.slf4j;
+package com.spring.test.slf4j;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
